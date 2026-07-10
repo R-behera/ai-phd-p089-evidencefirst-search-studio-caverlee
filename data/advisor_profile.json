@@ -1,0 +1,13 @@
+{
+  "professor": "James Caverlee",
+  "university": "Texas A&M University",
+  "program": "CSE PhD",
+  "research_area": "Recommender systems, IR, data mining, social media",
+  "representative_paper": "Spam-resilient web ranking work; 2008; WWW",
+  "paper_link": "https://scholar.google.com/scholar?q=Spam-resilient+web+ranking+work",
+  "project_family": "retrieval",
+  "focus": "Recommender systems",
+  "value_add_artifact": "transparent ranking evidence and controllability audit",
+  "next_step": "Replace seed rankings with BEIR/MovieLens-style results and test user-control tradeoffs.",
+  "generated_for": "professor outreach value-add starter"
+}
